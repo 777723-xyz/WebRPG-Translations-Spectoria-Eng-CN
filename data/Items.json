@@ -1895,12 +1895,12 @@
       "type": 0,
       "variance": 20
     },
-    "description": "蕴含克塔克蘑菇沉睡力量的核心。\n如果收集很多会怎样……？",
+    "description": "蕴含蜈蚣蘑菇沉睡力量的核心。\n如果收集很多会怎样……？",
     "effects": [],
     "hitType": 0,
     "iconIndex": 161,
     "itypeId": 1,
-    "name": "克塔克蘑菇核心",
+    "name": "蜈蚣蘑菇核心",
     "note": "",
     "occasion": 3,
     "price": 100,
@@ -1921,7 +1921,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "蕴含克塔克蘑菇沉睡力量的核心。\n使用后可释放其力量。",
+    "description": "蕴含蜈蚣蘑菇沉睡力量的核心。\n使用后可释放其力量。",
     "effects": [
       {
         "code": 44,
@@ -1933,7 +1933,7 @@
     "hitType": 0,
     "iconIndex": 161,
     "itypeId": 1,
-    "name": "克塔克蘑菇核心·改",
+    "name": "蜈蚣蘑菇核心·改",
     "note": "<targetActor:8>\n<composite:1,i67,10,0,0>",
     "occasion": 2,
     "price": 2000,
